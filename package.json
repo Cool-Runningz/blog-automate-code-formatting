@@ -6,9 +6,12 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prettier:check": "prettier --check .",
+    "prettier:write": "prettier --write ."   
   },
   "devDependencies": {
+    "prettier": "3.4.2",
     "vite": "^6.0.5"
   }
 }
