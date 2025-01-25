@@ -1,5 +1,5 @@
 # Automate Code Formatting
-Sample repo for my blog post "Automate Code Formatting with Prettier, ESLint, Husky, and lint-staged"
+Sample repo for my blog post 📝 [Automate Code Formatting with Prettier, ESLint, Husky, and lint-staged](https://blog.alyssaholland.me/automate-code-formatting)
 
 ## Install Dependencies
 ```
